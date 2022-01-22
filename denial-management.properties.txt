@@ -1,3 +1,0 @@
-denial-management.denial.message.expiry.days=10
-denial-management.minimum=10
-denial-management.maximum=20
